@@ -9,6 +9,8 @@
 ![Css](https://img.shields.io/badge/-css-2da2fc?style=for-the-badge&logo)
 ![Git](https://img.shields.io/badge/-git-2da2fc?style=for-the-badge&logo=git)
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/-telegram-b6ddee?style=for-the-badge&logo=telegram)](https://t.me/andrewtebenko)
+[![Instagram](https://img.shields.io/badge/-instagram-b6ddee?style=for-the-badge&logo=instagram)](https://www.instagram.com/andrew_tebenko/)
 
 
