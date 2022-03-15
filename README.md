@@ -1,6 +1,6 @@
 ![Header](https://github.com/andrewtebenko/andrewtebenko/blob/main/assets/background.jpg)
 
-About me
+## I'm a Front-end developer from Ukraine
 
 Languages and Tools
 
